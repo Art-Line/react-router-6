@@ -60,3 +60,15 @@ body {
     background-color: #002553;
     padding: 40px 0;
 }
+
+.posts {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 30px;
+}
+
+.posts li {
+    border-bottom: 1px solid lightcyan;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
